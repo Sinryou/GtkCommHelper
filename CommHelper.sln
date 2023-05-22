@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommHelper", "CommHelper\CommHelper.csproj", "{2E449D05-C31F-4171-94BD-6CCA655C2D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E449D05-C31F-4171-94BD-6CCA655C2D97}.Debug|x64.ActiveCfg = Debug|x64
+		{2E449D05-C31F-4171-94BD-6CCA655C2D97}.Debug|x64.Build.0 = Debug|x64
+		{2E449D05-C31F-4171-94BD-6CCA655C2D97}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3794B910-388A-4EE0-9D96-6FDD59BE8781}
+	EndGlobalSection
+EndGlobal
